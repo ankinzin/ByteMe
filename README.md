@@ -17,4 +17,4 @@ Python: Employed for data processing, analysis, and backend server development.
 
 JSON: Utilized for data interchange between the frontend and backend components.
 
-HTML & Bootstrap: Used to create a responsive and user-friendly frontend interface for the Datatron system.
+HTML, Javascript & CSS: Used to create a responsive and user-friendly frontend interface for the Datatron system.
